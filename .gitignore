@@ -1,3 +1,5 @@
 .vscode/launch.json
 stdin
 multiplyMatrices.js
+exercicioBee1114.js
+.gitignore
